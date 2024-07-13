@@ -4,12 +4,6 @@ Este documento oferece uma visão detalhada das etapas de execução do Terrafor
 
 ## Terraform Cloud
 
-### Configuração do Workspace
-
-A imagem a seguir mostra a configuração inicial do workspace no Terraform Cloud, onde o ambiente é preparado para os próximos comandos de provisionamento.
-
-![Configuração do Workspace](terraform-cloud-workspace-setup.png)
-
 ### Execução do Plano no Terraform Cloud
 
 Esta captura de tela documenta a execução do plano no Terraform Cloud, detalhando as ações que o Terraform pretende realizar, similar à execução local mas com recursos adicionais de colaboração e log.
